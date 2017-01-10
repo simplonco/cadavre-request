@@ -17,4 +17,4 @@ Même opération puis le troisième participe à l'histoire.
 
 Après 3 tours reconstituez l'histoire et lisez-là.
 
-![git-flow](https://www.claromentis.com/blog/wp-content/uploads/2016/05/How-You-Can-Handle-the-Bus-Factor-Using-Your-Intranet.jpg)
+![git-flow](https://raw.githubusercontent.com/simplonco/cadavre-request/master/pull-request-flow.png)
